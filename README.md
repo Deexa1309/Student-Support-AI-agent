@@ -33,9 +33,9 @@ Project tests.
 Sample queries for demo/testing.
 
 
-Project Structure
+Folder Structure
 
-
+```text
 student-support-ai-agent/
 │── app.py
 │── README.md
@@ -55,6 +55,7 @@ student-support-ai-agent/
 │
 └── demo/
     └── sample_queries.txt
+```
 
 3. Run
 pip install -r requirements.txt
