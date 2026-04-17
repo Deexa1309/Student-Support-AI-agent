@@ -63,7 +63,7 @@ python app.py
 ```
 
 
-[Demo walkthrough Video] (https://www.loom.com/share/d3cfaeb6558c4312acce9110c2a3b6a2)
+[Demo walkthrough Video] (https://www.loom.com/share/f86de7bb279d4ba69b4d1661319cbf58)
 [Demo Working Video] (https://www.loom.com/share/a0fc024397844de19d6a1b20788e3169)
 
 
