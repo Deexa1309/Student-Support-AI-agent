@@ -1,0 +1,59 @@
+# -----------------------------
+# Student Support AI Agent Demo
+# -----------------------------
+
+Student ID: A
+
+1. What is my attendance?
+Expected:
+Your attendance is 80.0% (8/10 classes attended).
+
+------------------------------------------------
+
+2. How many classes did I attend?
+Expected:
+You attended 8 classes.
+
+------------------------------------------------
+
+3. How to book class?
+Expected:
+You can book a class through the student portal under 'Bookings'.
+
+------------------------------------------------
+
+4. I want to reschedule my class
+Expected:
+Escalating to human agent...
+
+------------------------------------------------
+
+5. Payment failed
+Expected:
+Escalating to human agent...
+
+------------------------------------------------
+
+6. I am frustrated with your service
+Expected:
+Escalating to human agent...
+
+------------------------------------------------
+
+7. Tell me something random
+Expected:
+Escalating to human agent...
+
+------------------------------------------------
+
+Student ID: B
+
+8. What is my attendance?
+Expected:
+Your attendance is 30.0% (3/10 classes attended).
+
+------------------------------------------------
+
+9. Payment failed
+Expected:
+Escalating to human agent...
