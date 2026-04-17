@@ -56,7 +56,7 @@ student-support-ai-agent/
 └── demo/
     └── sample_queries.txt
 ```
-
+```bash
 3. Run
 pip install -r requirements.txt
 python app.py
