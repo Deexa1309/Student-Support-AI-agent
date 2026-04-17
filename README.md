@@ -60,6 +60,10 @@ student-support-ai-agent/
 3. Run
 pip install -r requirements.txt
 python app.py
+```
 
+
+[Demo walkthrough Video] (https://www.loom.com/share/d3cfaeb6558c4312acce9110c2a3b6a2)
+[Demo Working Video] (https://www.loom.com/share/a0fc024397844de19d6a1b20788e3169)
 
 
