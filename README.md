@@ -33,7 +33,9 @@ Project tests.
 Sample queries for demo/testing.
 
 
-Project Structure 
+Project Structure
+
+
 student-support-ai-agent/
 │── app.py
 │── README.md
